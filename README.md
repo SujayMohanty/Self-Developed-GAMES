@@ -27,4 +27,4 @@ Shooter_adventure game : Download the Zip and extract play if it dosent work che
 
 #For changes in Shooter_adventure game (if required)
 FONT_NAME = None  # default font
-IMAGE_PATH = "D:\SUJAYGITGAMES\Shooter\8745190.jpg" <---------------------------- change this to the background file path as you wish.
+IMAGE_PATH = "D:\SUJAYGITGAMES\Shooter_adventure\8745190.jpg" <---------------------------- change this to the background file path as you wish.
