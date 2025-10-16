@@ -12,3 +12,15 @@ Stickgame : Extract the zip open teh dist file and click index to play (html bas
 
 
 Maze game : Download and run requires python 8.12 or more  simple python based
+
+
+
+
+Shooter_adventure game : Download the Zip and extract play if it dosent work check the bg inage file near line 43 and 44 it will look like this : 
+# Visuals
+TARGET_MIN_RADIUS = 18
+TARGET_MAX_RADIUS = 36
+CROSSHAIR_RADIUS = 14
+
+FONT_NAME = None  # default font
+IMAGE_PATH = "D:\SUJAYGITGAMES\Shooter\8745190.jpg" <---------------------------- change this to the background file path as you wish.
