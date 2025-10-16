@@ -17,7 +17,7 @@ Maze game : Download and run requires python 8.12 or more  simple python based
 
 
 Shooter_adventure game : Download the Zip and extract play if it dosent work check the bg inage file near line 43 and 44 it will look like this : 
-#### for changes in Shooter_adventure game
+###For changes in Shooter_adventure game (if required)
 Visuals
 TARGET_MIN_RADIUS = 18
 TARGET_MAX_RADIUS = 36
