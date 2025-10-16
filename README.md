@@ -20,16 +20,11 @@ Shooter_adventure game : Download the Zip and extract play if it dosent work che
 
 
 
+
+
+
+
+
 #For changes in Shooter_adventure game (if required)
-
-
-
-
-
-#Visuals
-TARGET_MIN_RADIUS = 18
-TARGET_MAX_RADIUS = 36
-CROSSHAIR_RADIUS = 14
-
 FONT_NAME = None  # default font
 IMAGE_PATH = "D:\SUJAYGITGAMES\Shooter\8745190.jpg" <---------------------------- change this to the background file path as you wish.
