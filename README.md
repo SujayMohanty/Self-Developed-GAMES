@@ -23,6 +23,10 @@ Shooter_adventure game : Download the Zip and extract play if it dosent work che
 
 
 
-#For changes in Shooter_adventure game (if required) this game is not a blue screen shooter its graphical please change the path file of the background for better experience
+#For changes in Shooter_adventure game (if required) {this game is NOT a blue screen with bit tree images shooter its graphical BG please change the path file of the background for better experience
 FONT_NAME = None  # default font
 IMAGE_PATH = "D:\SUJAYGITGAMES\Shooter\8745190.jpg" <---------------------------- change this to the background file path as you wish.
+
+
+
+Keep coming back for more
